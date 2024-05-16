@@ -1,0 +1,28 @@
+---
+first_name: Alex
+last_name: Dovbush
+age: 18
+height: 1.95
+contact_number_count: 2
+contact_numbers:
+               contact1:
+                       type: Home
+                       number: +3700000000
+               contact2:
+                       type: Office
+                       number: +3800000000
+favorite_sports:
+ - basketball
+ - football
+friends:
+ - name: Mary
+   age: 21
+married: false
+tax_id: null
+address:
+ country: UA
+ city: Kyiv
+ zip: 00202
+ postal: false
+story: >
+    Hi, nice to meet you!

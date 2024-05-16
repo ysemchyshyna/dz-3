@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+	<name>
+		<firstName>Alex</firstName>
+		<lastName>Dovbush</lastName>
+	</name>
+	<age>18</age>
+	<contactnumbers type="Home">
+		<number>0999999999</number>
+	</contactnumbers>
+	<contactnumbers type="Office">
+		<number>0888888888</number>
+	</contactnumbers>
+	<favoriteSports>
+		<basketball/>
+		<footbal/>
+		<tennis type = 'ping pong'/>
+		<tennis>big tennis</tennis>
+	</favoriteSports>
+	<married>false</married>
+	<taxid>null</taxid>
+	<friends>
+		<name>Mary</name>
+		<age>21</age>
+	</friends>
+	<address>
+		<country type = 'UA'/>
+		<city>Kyiv</city>
+		<zip>00202</zip>
+		<postal>false</postal>
+	</address>
+</student>

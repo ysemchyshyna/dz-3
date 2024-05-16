@@ -1,0 +1,30 @@
+{
+  "firstName": "Alex",
+  "age": 18,
+  "contactNumbers": [
+    {
+      "type": "Home",
+      "number": "+3700000000"
+    },
+    {
+      "type": "Office",
+      "number": "+3800000000"
+    }
+  ],
+  "favoriteSports": [
+    "Basketball",
+    "Football"
+  ],
+  "married": false,
+  "taxId": null,
+  "friends": [
+    "Mary",
+    21
+  ],
+  "address": {
+    "country": "UA",
+    "city": "Kyiv",
+    "zip": "00202",
+    "postal": false
+  }
+}
